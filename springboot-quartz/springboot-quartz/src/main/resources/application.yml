@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: schedule-server
+  profiles:
+    #?????????application-mybatis?application-datasource
+    active: datasource,mybatis
+server:
+  port: 9000

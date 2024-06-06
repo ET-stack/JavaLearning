@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-security-login/spring-security-login.iml" filepath="$PROJECT_DIR$/spring-security-login/spring-security-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lightsword/springboot-crud.iml" filepath="$PROJECT_DIR$/lightsword/springboot-crud.iml" />
+      <module fileurl="file://F:\JAVA\SpringBoot_learning\springboot-crud\springboot-crud01\springboot-crud01.iml" filepath="F:\JAVA\SpringBoot_learning\springboot-crud\springboot-crud01\springboot-crud01.iml" />
+    </modules>
+  </component>
+</project>

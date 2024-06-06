@@ -1,0 +1,5 @@
+spring:
+  data:
+#    elasticsearch: 192.168.193.135:9200
+    elasticsearch: 127.0.0.1:9200
+

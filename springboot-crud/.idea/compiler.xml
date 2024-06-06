@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-security-login" />
+        <module name="springboot-crud" />
+        <module name="springboot-crud01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lightsword" target="1.8" />
+      <module name="spring-security-login" target="1.7" />
+      <module name="springboot-crud" target="1.8" />
+      <module name="springboot-crud01" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
