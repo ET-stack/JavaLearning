@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperledger.fabric.samples.fabcar.FabCarTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-13T05:32:46" hostname="DESKTOP-9BP2PGI" time="0.491">
+  <properties/>
+  <testcase name="invokeUnknownTransaction()" classname="org.hyperledger.fabric.samples.fabcar.FabCarTest" time="0.491"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

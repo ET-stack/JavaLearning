@@ -1,0 +1,26 @@
+lcs3:
+  debug:
+    enable: false
+    context:
+      tenant: STULIB
+      login: true
+      schemas:
+        lcs2: lib_stu_lcsp
+  secure:
+    inner:
+      - anylocal
+  score:
+    callback: http://127.0.0.1:8080/interview/score/notify
+quarkus:
+  http:
+    host: 0.0.0.0
+  datasource:
+    db-kind: mysql
+    username: flyread
+    password: flyreadpass123
+    jdbc:
+      url: jdbc:mysql://192.168.1.251:3306/lib_demo_lcsp?useSSL=false&allowMultiQueries=true
+  rest-client:
+    lcselector:
+      #url: http://192.168.1.160:36633
+      url: http://192.168.1.235:36633
